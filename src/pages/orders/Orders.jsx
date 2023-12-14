@@ -1,11 +1,8 @@
-import React from 'react'
-import "./Orders.scss"
-const Order = () => {
-  return (
-    <div className='order'>
-      
-    </div>
-  )
-}
+import React from "react";
+import "./Orders.scss";
 
-export default Order
+const Orders = () => {
+  return <div className="order"></div>;
+};
+
+export default Orders;
